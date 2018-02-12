@@ -1,5 +1,5 @@
 # 
-# Author: arnoldlu@qq.com
+# Author: baoquan.lu@linaro.org
 #
 # Depends on android.sh from 
 # https://github.com/01org/pm-graph.git .
